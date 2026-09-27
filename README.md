@@ -1,62 +1,58 @@
-# Hi, I'm Samiksha Nigam
+# Hi, I'm Samiksha Nigam 👋
 
 B.Tech student in **Artificial Intelligence and Data Science** at Lakshmi Narain College of Technology, Bhopal, graduating in **2027**.
 
-I’m primarily interested in **Artificial Intelligence, Machine Learning, Generative AI, RAG, and Large Language Models**, with a strong foundation in **Java, Data Structures & Algorithms, backend development, and core computer science**. My goal is to build practical AI-driven software systems that combine intelligent models with reliable engineering.
-
-## AI & Machine Learning Focus
-
-- Artificial Intelligence
-- Machine Learning
-- Generative AI
-- Retrieval-Augmented Generation (RAG)
-- Large Language Models (LLMs)
-- Python for AI/ML workflows
+I’m interested in building practical software and AI-driven systems, with a strong focus on **Java, Data Structures & Algorithms, backend development, Android/Firebase, Machine Learning, Generative AI, RAG, and LLMs**.
 
 ## Technical Skills
 
 **Programming Languages:** Java, Python, SQL, JavaScript  
-**AI & Machine Learning:** Artificial Intelligence, Machine Learning, Generative AI, RAG, Large Language Models (LLMs)  
-**Core CS:** Data Structures & Algorithms, Object-Oriented Programming, Operating Systems, DBMS, Computer Networks  
+**Core CS:** Data Structures & Algorithms, Object-Oriented Programming (OOP), Operating Systems, DBMS, Computer Networks  
 **Frameworks & Databases:** Spring Boot, RESTful Web Services, MySQL, Firebase  
-**Tools & Technology:** Git, GitHub, IntelliJ IDEA, Android Studio
+**Tools & Technology:** Git, GitHub, IntelliJ IDEA, Android Studio  
+**AI & Machine Learning:** Artificial Intelligence, Machine Learning, Generative AI, Retrieval-Augmented Generation (RAG), Large Language Models (LLMs)
 
-## Featured Project
+## Featured Projects
 
 ### Smart Timetable Generator
-
 **Java · HashMap · LinkedList · OOP**
 
 - Built a Java-based timetable generation system capable of scheduling **100+ class allocations** while minimizing scheduling conflicts.
-- Optimized scheduling and data retrieval using **HashMap and LinkedList**, improving timetable generation efficiency by a conservative **30%** in the documented benchmark comparison.
+- Used **HashMap** and **LinkedList** for efficient conflict checking and schedule management.
 - Designed reusable Java modules using **object-oriented programming principles** for maintainable and scalable timetable generation.
+- Includes documented benchmarking, tests, and GitHub Actions CI.
 
 [View Repository](https://github.com/samikshanigam9/SmartTimetableGenerator)
 
-## AI Projects on My Resume
+### Smart Postpartum Fitness Tracker — BloomCare
+**Java · Android Studio · Firebase**
 
-### AI-Based Student Performance Prediction System
+- Developed an Android wellness application with **6+ tracking and recovery features**, including workouts, hydration, weight, and recovery monitoring.
+- Integrated **Firebase Authentication** and **Firebase Realtime Database** for user-specific data storage and synchronization.
+- Built a modular Java architecture and added personalized AI wellness guidance using Firebase AI Logic / Gemini.
+- Includes history tracking, Firebase App Check, and unit-tested recovery-score logic.
 
-**Python · Machine Learning**
-
-- Developed a machine learning application to analyze **500+ student records** for academic performance prediction.
-- Performed data preprocessing, feature engineering, and exploratory data analysis.
-- Built supervised machine learning models for performance prediction and personalized academic recommendations.
-
-## Currently Focused On
-
-- Building stronger foundations in **AI/ML and Generative AI**
-- Learning practical **RAG and LLM-based application development**
-- Strengthening **Python for machine learning workflows**
-- Continuing **Java, DSA, and backend development** for strong software engineering fundamentals
+[View Repository](https://github.com/samikshanigam9/BloomCare)
 
 ## Achievements
 
-- **Smart India Hackathon 2025** — participated in a national-level smart street parking solution project.
+- **Smart India Hackathon 2025** — contributed to a smart street parking solution.
 - **HackWithInfy 2026 — Round 2 Qualifier**.
+
+## Certifications
+
+- **AWS Academy Machine Learning Foundations** — AWS Academy, 2026
+- **Java Data Structures and Algorithms Masterclass** — Udemy, 2026
+
+## Currently Exploring
+
+- Retrieval-Augmented Generation (RAG)
+- Large Language Models (LLMs)
+- Generative AI applications
+- AI-backed software systems
 
 ## Connect
 
-- GitHub: [samikshanigam9](https://github.com/samikshanigam9)
-- LeetCode: [Jspfb4K3Rj](https://leetcode.com/u/Jspfb4K3Rj/)
-- Email: samikshanigam9@gmail.com
+- **GitHub:** [samikshanigam9](https://github.com/samikshanigam9)
+- **LeetCode:** [Jspfb4K3Rj](https://leetcode.com/u/Jspfb4K3Rj/)
+- **Email:** samikshanigam9@gmail.com
