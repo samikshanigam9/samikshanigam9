@@ -32,7 +32,7 @@ I’m interested in building practical software and AI-driven systems, with a st
 - Built a modular Java architecture and added personalized AI wellness guidance using Firebase AI Logic / Gemini.
 - Includes history tracking, Firebase App Check, and unit-tested recovery-score logic.
 
-[View Repository](https://github.com/samikshanigam9/BloomCare)
+[View Repository](https://github.com/samikshanigam9/BloomCare-Smart-Postpartum-Fitness-Tracker)
 
 ## Achievements
 
